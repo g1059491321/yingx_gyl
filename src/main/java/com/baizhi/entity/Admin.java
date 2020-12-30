@@ -23,7 +23,5 @@ public class Admin {
     private String status;
 
     private String salt;
-    
-    private String a;
 
 }
